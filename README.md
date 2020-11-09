@@ -1,24 +1,13 @@
+https://moniqka.github.io/app-recrutation/
 # app-recrutation
+recrutation project --> src folder
+</br>
 
-## Project setup
-```
-npm install
-```
+# Previewing Locally
+`npm install -g serve`</br>
+(-s flag means serve it in Single-Page Application mode)</br>
+`serve -s dist`
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# GitHub Pages
+You can see the project on https://moniqka.github.io/app-recrutation/
+</br>
