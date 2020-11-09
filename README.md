@@ -1,4 +1,4 @@
-https://moniqka.github.io/app-recrutation/
+
 # app-recrutation
 recrutation project --> src folder
 </br>
